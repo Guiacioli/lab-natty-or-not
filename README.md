@@ -1,51 +1,23 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Projeto Foto Fake or Natty - paisagem
 
-## 🚀 Introdução
+##📒 Descrição
+Este projeto visa explorar a capacidade de distinguir entre imagens de paisagens geradas por inteligência artificial (IA) e fotografias reais. O objetivo é criar uma série de imagens de paisagens e desafiar os participantes a identificar quais são reais e quais foram criadas artificialmente.
 
-> Woooow! Look at this 👀
+##🤖 Tecnologias Utilizadas
+IA Generativas: Utilizamos ferramentas como DALL-E 2 e MidJourney para gerar imagens realistas de paisagens.
+Edição de Imagens: Software de edição como Adobe Photoshop para ajustar e melhorar as imagens geradas pela IA.
+Plataformas de Comparação: Aplicações como Google Forms para coletar as respostas dos participantes sobre a autenticidade das imagens.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+##🧐 Processo de Criação
+Seleção de Referências: Coletamos uma variedade de fotografias de paisagens reais para servir como inspiração e base para as imagens geradas.
+Geração de Imagens: Utilizamos DALL-E 2 e MidJourney para criar diversas imagens de paisagens, experimentando com diferentes cenários, condições climáticas e horários do dia.
+Edição e Refinamento: As imagens geradas foram refinadas no Adobe Photoshop para melhorar a qualidade e torná-las mais convincentes.
+Teste de Autenticidade: As imagens finalizadas foram inseridas em um formulário online onde os participantes deveriam identificar se eram reais ou geradas por IA.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+##🚀 Resultados
+O projeto resultou em uma coleção de 8 imagens de paisagens, das quais 4 eram fotografias reais e 4 foram geradas por IA. A média de acertos dos participantes foi de 60%, indicando que muitos tiveram dificuldade em distinguir entre as imagens reais e as artificiais. Isso destaca o avanço significativo das tecnologias de IA na criação de imagens realistas.
 
-### Objetivos
+##💭 Reflexão (Opcional)
+Criar imagens 'natty' com IA apresenta um desafio fascinante. Embora as ferramentas de geração de imagens sejam extremamente avançadas, capturar a complexidade e os detalhes sutis das paisagens reais ainda requer um trabalho cuidadoso de edição e refinamento. Este projeto não só demonstrou o poder das IAs generativas, mas também levantou questões sobre a confiança e autenticidade das imagens que encontramos online.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
